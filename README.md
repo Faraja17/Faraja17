@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Full Stack Developer.
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript.
 - 💞️ I’m looking to collaborate on hack-a-thons, TA positions.
-- 📫 How to reach me https://faraja17.github.io/my-website/contact-me.html.
+- 📫 How to contact me: farajakthompson@gmail.com 
 
 <!---
 Faraja17/Faraja17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
