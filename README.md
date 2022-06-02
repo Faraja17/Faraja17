@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faraja Thompson.
 - 👀 I’m interested in becoming a Full Stack Developer.
-- 🌱 I’m currently studying JavaScript, data structures and algorithms,  and the command line.
+- 🌱 I’m currently studying advanced JavaScript, data structures and algorithms,  and the command line.
 - 💞️ I’m looking to collaborate on hack-a-thons, TA positions.
 - 📫 How to contact me: farajakthompson@gmail.com 
 
