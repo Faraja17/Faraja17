@@ -3,7 +3,7 @@
 - 🖥 I’m interested in becoming a Full Stack Developer.
     - [My Blog](https://hashnode.com/@faraja)
 - 🌱 I’m currently studying React, data structures and algorithms, and the command line.
-    - [My CodePen Collections](https://codepen.io/faraja17)
+    - [My CodePen Showcase](https://codepen.io/faraja17)
 - 💞️ I’m looking to collaborate on hack-a-thons, TA positions.
     - [My LinkedIn Profile](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
 - 📧 How to contact me: farajakthompson@gmail.com
