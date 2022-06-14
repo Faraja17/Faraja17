@@ -1,7 +1,7 @@
 - 👋🏽 Hi, I’m Faraja Thompson.
- 
+    - [My Website](https://faraja17.github.io/my-website/)
 - 🖥 I’m interested in becoming a Full Stack Developer.
-    - [My blog](https://hashnode.com/@faraja)
+    - [My Blog](https://hashnode.com/@faraja)
 - 🌱 I’m currently studying React, data structures and algorithms, and the command line.
     - [My CodePen Files](https://codepen.io/faraja17)
 - 💞️ I’m looking to collaborate on hack-a-thons, TA positions.
