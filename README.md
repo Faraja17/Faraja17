@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I’m Faraja Thompson.
+- 🙋🏽‍♀️ Hi, I’m Faraja Thompson.
     - [My Website](https://faraja17.github.io/my-website/)
 - 🖥 I’m interested in becoming a Full Stack Developer.
     - [My Blog](https://hashnode.com/@faraja)
