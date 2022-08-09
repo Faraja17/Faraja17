@@ -1,7 +1,7 @@
 - 🙋🏽‍♀️ Hi, I’m Faraja Thompson.
     - [My Website](https://faraja17.github.io/my-website/)
 - 🖥 I’m interested in becoming a Full Stack Software Engineer.
-    - [My Blog](https://hashnode.com/@faraja)
+    - [My Blog](https://teach2tech.hashnode.dev/)
 - 🌱 I’m currently studying Node.js, Express, data structures and algorithms, shell commands, Git version control, and C language.
     - [My Practice Projects](https://docs.google.com/presentation/d/e/2PACX-1vRp-uVPPCcOndQ6NlRfaqJMOemg_NphMB_r8ELAO4_dy-YDnRxgYjZ-hxbmXaRJlK8hD-qyX92hG7lf/pub?start=false&loop=false&delayms=60000&slide=id.p)
 - 💞️ I’m looking to collaborate on open source projects, hack-a-thons, tech roles.
