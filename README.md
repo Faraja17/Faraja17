@@ -6,7 +6,8 @@
     - [My Portfolio](https://faraja17.github.io/my-website/#portfolio)
 - 💞️ I’m looking to collaborate on open source projects, hack-a-thons, tech roles.
     - [My LinkedIn Profile](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
-- 📧 How to contact me: farajakthompson@gmail.com
+- 📧 Reach out to me! 
+    - farajakthompson@gmail.com
       
 
 
