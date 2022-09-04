@@ -2,7 +2,7 @@
     - [My Website](https://faraja17.github.io/my-website/)
 - 🖥 I’m interested in becoming a Full Stack Software Engineer.
     - [My Blog](https://teach2tech.hashnode.dev/)
-- 🌱 I’m currently studying Node.js, Express, data structures and algorithms, shell commands, Git version control, and C language.
+- 🌱 I’m currently studying Node.js, Express, React, Databases, data structures and algorithms, shell commands, Git version control, and C language.
     - [My Portfolio](https://faraja17.github.io/my-website/#portfolio)
 - 💞️ I’m looking to collaborate on open source projects, hack-a-thons, tech roles.
     - [My LinkedIn Profile](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
